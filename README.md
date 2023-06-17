@@ -3,7 +3,7 @@
 The official ReVanced Manager based on Flutter.
 
 ## 🔽 Download
-To download latest Manager, go [here](https://github.com/revanced/revanced-manager/releases/latest) and install the provided APK file.
+To download latest Manager, go [here](https://getrevanced.com) and install the provided APK file.
 
 ## 📝 Prerequisites
 1. Android 8 or higher
